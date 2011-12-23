@@ -5,7 +5,7 @@
 * Time: 10:26 PM
 * Center element vertically and horizontally
 * @options el: containing element to center within;
-* @use: jQuery(".centerCenter").centerCenter() - <div class="centerCenter" data-center-container="#my_element"></div>;
+* @use: jQuery(".centerCenter").cCenter() - <div class="centerCenter" data-center-container="#my_element"></div>;
 *
 
 Permission is hereby granted, free of charge, to any person obtaining
